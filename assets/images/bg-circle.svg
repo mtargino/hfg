@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="352" viewBox="0 0 360 352">
+  <g id="bg-circle" transform="translate(845 -2219)">
+    <rect id="Retângulo_187" data-name="Retângulo 187" width="360" height="352" transform="translate(-845 2219)" fill="none"/>
+    <g id="Grupo_316" data-name="Grupo 316" transform="translate(-845 1032)">
+      <g id="Elipse_1" data-name="Elipse 1" transform="translate(72.045 1250.045)" fill="none" stroke="#ff6800" stroke-width="2">
+        <circle cx="107.955" cy="107.955" r="107.955" stroke="none"/>
+        <circle cx="107.955" cy="107.955" r="106.955" fill="none"/>
+      </g>
+      <g id="Elipse_2" data-name="Elipse 2" transform="translate(33.996 1211.996)" fill="none" stroke="#ff6800" stroke-width="2">
+        <circle cx="146.004" cy="146.004" r="146.004" stroke="none"/>
+        <circle cx="146.004" cy="146.004" r="145.004" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
